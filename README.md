@@ -1,5 +1,8 @@
 # UAS-PAM
 
+* Nama  : Sultan Raffy
+* NIM   : 118140198
+
 ## Nama aplikasi
 Movie Library
 
